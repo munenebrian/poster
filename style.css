@@ -4,11 +4,10 @@
     font-family: 'Hurricane', cursive;
     font-family: 'Lato', sans-serif;
     font-family: 'Red Hat Mono', monospace;
+    background-color: aqua;
   }
-  .header{
-    min-height: 100vh;
+  .header .container{
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/pink.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
